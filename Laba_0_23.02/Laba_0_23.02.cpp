@@ -25,7 +25,7 @@ int main()
 	cout << " B : " << endl;
 	for (i = 0; i < nB; i++)
 		cout << B[i] << "\t";
-	cout << "C " << endl;
+	cout << "\n C: " << endl;
 	for (i = 0; i < nC; i++)
 		cout << C[i] << "\t";
 	cin >> i;
